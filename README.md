@@ -5,13 +5,6 @@ I'm a Mechatronic Engineer from Mexico currently pursuing a Master's degree in B
 ## About my Projects
 My projects on GitHub showcase my skills in data analysis, visualization, and machine learning. I believe in using data to solve real-world problems and create value for businesses and society. You'll find a mix of personal and academic projects that highlight my creativity and analytical abilities.
 
-## My Skills
-Data analysis and visualization using Python and R
-Machine learning algorithms and techniques
-Web scraping and data mining
-Data cleaning and preprocessing
-SQL databases and queries
-Project management and collaboration using Git and GitHub
 <!--
 **guswelsh/guswelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
